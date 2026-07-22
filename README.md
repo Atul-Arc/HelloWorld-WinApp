@@ -53,4 +53,6 @@ This application serves as a reference implementation for:
 
 ## Author
 
+**Atul Kharecha**
+
 For more information, visit: https://github.com/Atul-Arc
