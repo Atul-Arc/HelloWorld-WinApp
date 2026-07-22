@@ -1,4 +1,4 @@
-# HelloWorldWinApp
+# Hello World Windows App
 
 A simple Windows Forms desktop application built using **C# and .NET Framework 4.8** that demonstrates core Windows Forms common controls and event handlers.
 
@@ -54,5 +54,5 @@ This application serves as a reference implementation for:
 ## Author
 
 **Atul Kharecha**
-
-For more information, visit: https://github.com/Atul-Arc
+LinkedIn: https://www.linkedin.com/in/atulkharecha/
+GitHub: https://github.com/Atul-Arc
