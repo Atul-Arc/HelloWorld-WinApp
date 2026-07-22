@@ -54,5 +54,6 @@ This application serves as a reference implementation for:
 ## Author
 
 **Atul Kharecha**
+
 LinkedIn: https://www.linkedin.com/in/atulkharecha/
 GitHub: https://github.com/Atul-Arc
